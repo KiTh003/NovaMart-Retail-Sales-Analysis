@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Customer_Name,Region,City,Product,Category,Quantity,Unit_Price_LKR,Discount_Rate
+ORD0040,2025-01-02,Madhavi Dias,Southern,Matara,Office Chair,Furniture,3,28000,0.1
+ORD0005,2025-01-04,Tharushi Jayasinghe,Sabaragamuwa,Kegalle,Monitor,Electronics,3,45000,0.0
+ORD0086,2025-01-04,Madhavi Dias,Southern,Matara,Headphones,Accessories,4,7500,0.15
+ORD0020,2025-01-06,Kasun Wijesinghe,Southern,Hambantota,Smartphone,Electronics,3,95000,0.0
+ORD0116,2025-01-07,Nethmi Perera,Southern,Matara,Pen Set,Stationery,4,800,0.1
+ORD0108,2025-01-09,Kasun Wijesinghe,Southern,Galle,Smartphone,Electronics,4,95000,0.0
+ORD0060,2025-01-13,Kavindi Fernando,Southern,Matara,Monitor,Electronics,2,45000,0.05
+ORD0090,2025-01-14,Amal Perera,Sabaragamuwa,Ratnapura,Smartphone,Electronics,4,95000,0.0
+ORD0097,2025-01-14,Ishara De Silva,Sabaragamuwa,Kegalle,Mouse,Accessories,2,2500,0.0
+ORD0014,2025-01-17,Ishara De Silva,Sabaragamuwa,Kegalle,Headphones,Accessories,1,7500,0.0
+ORD0031,2025-01-17,Ravindu Senanayake,Western,Kalutara,Headphones,Accessories,2,7500,0.05
+ORD0057,2025-01-19,Kasun Wijesinghe,Central,Matale,Headphones,Accessories,2,7500,0.0
+ORD0115,2025-01-24,Nimal Silva,Southern,Hambantota,Laptop,Electronics,2,150000,0.1
+ORD0018,2025-01-25,Ishara De Silva,Central,Nuwara Eliya,Smartphone,Electronics,2,95000,0.1
+ORD0025,2025-01-30,Saman Kumara,Western,Colombo,Keyboard,Accessories,4,5000,0.0
+ORD0019,2025-02-02,Saman Kumara,Sabaragamuwa,Kegalle,Office Chair,Furniture,5,28000,0.05
+ORD0029,2025-02-02,Ishara De Silva,Western,Kalutara,Headphones,Accessories,5,7500,0.0
+ORD0044,2025-02-05,Nimal Silva,Western,Kalutara,Pen Set,Stationery,2,800,0.1
+ORD0048,2025-02-07,Tharushi Jayasinghe,Sabaragamuwa,Ratnapura,Laptop,Electronics,1,150000,0.15
+ORD0076,2025-02-07,Pasindu Silva,Sabaragamuwa,Ratnapura,Desk,Furniture,4,35000,0.1
+ORD0119,2025-02-13,Ishara De Silva,Western,Kalutara,Keyboard,Accessories,4,5000,0.15
+ORD0003,2025-02-17,Saman Kumara,Central,Nuwara Eliya,Keyboard,Accessories,5,5000,0.0
+ORD0054,2025-02-17,Kavindi Fernando,Southern,Galle,Office Chair,Furniture,1,28000,0.05
+ORD0052,2025-03-01,Tharushi Jayasinghe,Central,Matale,Smartphone,Electronics,3,95000,0.15
+ORD0026,2025-03-06,Ishara De Silva,Sabaragamuwa,Ratnapura,Monitor,Electronics,3,45000,0.15
+ORD0089,2025-03-07,Ravindu Senanayake,Western,Gampaha,Pen Set,Stationery,5,800,0.15
+ORD0083,2025-03-12,Nimal Silva,Central,Matale,Monitor,Electronics,2,45000,0.0
+ORD0002,2025-03-13,Amal Perera,Western,Kalutara,Smartphone,Electronics,4,95000,0.0
+ORD0016,2025-03-13,Ishara De Silva,Southern,Hambantota,Keyboard,Accessories,5,5000,0.1
+ORD0023,2025-03-20,Ishara De Silva,Central,Nuwara Eliya,Headphones,Accessories,5,7500,0.0
+ORD0071,2025-03-31,Kasun Wijesinghe,Southern,Matara,Pen Set,Stationery,5,800,0.0
+ORD0065,2025-04-02,Pasindu Silva,Southern,Galle,Pen Set,Stationery,1,800,0.15
+ORD0105,2025-04-04,Kasun Wijesinghe,Central,Matale,Desk,Furniture,3,35000,0.05
+ORD0117,2025-04-05,Pasindu Silva,Southern,Matara,Laptop,Electronics,1,150000,0.0
+ORD0009,2025-04-09,Nimal Silva,Western,Kalutara,Smartphone,Electronics,2,95000,0.05
+ORD0036,2025-04-09,Kasun Wijesinghe,Sabaragamuwa,Ratnapura,Keyboard,Accessories,4,5000,0.0
+ORD0063,2025-04-09,Nethmi Perera,Southern,Matara,Office Chair,Furniture,1,28000,0.05
+ORD0004,2025-04-12,Kasun Wijesinghe,Sabaragamuwa,Ratnapura,Notebook,Stationery,4,450,0.15
+ORD0075,2025-04-12,Ishara De Silva,Western,Colombo,Monitor,Electronics,2,45000,0.1
+ORD0085,2025-04-16,Dinuka Fernando,Sabaragamuwa,Ratnapura,Office Chair,Furniture,5,28000,0.1
+ORD0030,2025-04-23,Nimal Silva,Western,Kalutara,Laptop,Electronics,1,150000,0.0
+ORD0010,2025-04-30,Kavindi Fernando,Sabaragamuwa,Kegalle,Smartphone,Electronics,4,95000,0.05
+ORD0033,2025-05-05,Ravindu Senanayake,Sabaragamuwa,Ratnapura,Desk,Furniture,1,35000,0.0
+ORD0077,2025-05-05,Kavindi Fernando,Western,Colombo,Monitor,Electronics,4,45000,0.0
+ORD0081,2025-05-07,Nimal Silva,Sabaragamuwa,Ratnapura,Mouse,Accessories,3,2500,0.1
+ORD0094,2025-05-07,Kavindi Fernando,Western,Kalutara,Keyboard,Accessories,2,5000,0.0
+ORD0111,2025-05-09,Nimal Silva,Western,Kalutara,Keyboard,Accessories,2,5000,0.05
+ORD0067,2025-05-11,Ravindu Senanayake,Sabaragamuwa,Ratnapura,Laptop,Electronics,5,150000,0.15
+ORD0091,2025-05-14,Nethmi Perera,Southern,Galle,Office Chair,Furniture,4,28000,0.05
+ORD0047,2025-05-16,Nethmi Perera,Central,Nuwara Eliya,Office Chair,Furniture,3,28000,0.1
+ORD0102,2025-05-19,Kasun Wijesinghe,Sabaragamuwa,Kegalle,Pen Set,Stationery,4,800,0.15
+ORD0050,2025-05-26,Amal Perera,Sabaragamuwa,Kegalle,Monitor,Electronics,5,45000,0.15
+ORD0072,2025-05-27,Dinuka Fernando,Sabaragamuwa,Kegalle,Keyboard,Accessories,4,5000,0.1
+ORD0082,2025-05-27,Nimal Silva,Southern,Matara,Keyboard,Accessories,3,5000,0.15
+ORD0069,2025-06-10,Nethmi Perera,Southern,Hambantota,Smartphone,Electronics,3,95000,0.1
+ORD0015,2025-06-11,Kasun Wijesinghe,Sabaragamuwa,Kegalle,Keyboard,Accessories,4,5000,0.0
+ORD0024,2025-06-15,Tharushi Jayasinghe,Western,Colombo,Desk,Furniture,3,35000,0.05
+ORD0103,2025-06-15,Dinuka Fernando,Western,Gampaha,Keyboard,Accessories,4,5000,0.0
+ORD0006,2025-06-22,Nethmi Perera,Western,Gampaha,Smartphone,Electronics,1,95000,0.05
+ORD0053,2025-06-25,Amal Perera,Southern,Hambantota,Keyboard,Accessories,4,5000,0.05
+ORD0066,2025-06-26,Tharushi Jayasinghe,Sabaragamuwa,Ratnapura,Headphones,Accessories,4,7500,0.15
+ORD0114,2025-07-04,Kasun Wijesinghe,Southern,Galle,Monitor,Electronics,5,45000,0.0
+ORD0101,2025-07-05,Ravindu Senanayake,Central,Matale,Desk,Furniture,2,35000,0.15
+ORD0058,2025-07-06,Nethmi Perera,Southern,Galle,Laptop,Electronics,2,150000,0.0
+ORD0011,2025-07-09,Ishara De Silva,Central,Nuwara Eliya,Headphones,Accessories,3,7500,0.0
+ORD0008,2025-07-13,Ishara De Silva,Southern,Hambantota,Smartphone,Electronics,5,95000,0.05
+ORD0092,2025-07-14,Amal Perera,Sabaragamuwa,Kegalle,Mouse,Accessories,1,2500,0.1
+ORD0017,2025-07-24,Nimal Silva,Central,Kandy,Headphones,Accessories,5,7500,0.1
+ORD0070,2025-07-26,Ravindu Senanayake,Central,Kandy,Mouse,Accessories,4,2500,0.1
+ORD0107,2025-07-28,Dinuka Fernando,Central,Nuwara Eliya,Desk,Furniture,4,35000,0.1
+ORD0084,2025-08-01,Amal Perera,Southern,Hambantota,Office Chair,Furniture,4,28000,0.1
+ORD0027,2025-08-05,Ravindu Senanayake,Central,Nuwara Eliya,Keyboard,Accessories,3,5000,0.1
+ORD0110,2025-08-06,Kasun Wijesinghe,Southern,Matara,Notebook,Stationery,4,450,0.05
+ORD0056,2025-08-07,Saman Kumara,Western,Colombo,Notebook,Stationery,1,450,0.0
+ORD0034,2025-08-09,Ravindu Senanayake,Sabaragamuwa,Kegalle,Headphones,Accessories,4,7500,0.0
+ORD0021,2025-08-11,Kavindi Fernando,Sabaragamuwa,Ratnapura,Monitor,Electronics,3,45000,0.15
+ORD0079,2025-08-22,Madhavi Dias,Sabaragamuwa,Kegalle,Monitor,Electronics,4,45000,0.15
+ORD0062,2025-08-24,Ravindu Senanayake,Southern,Galle,Headphones,Accessories,2,7500,0.0
+ORD0037,2025-08-25,Amal Perera,Western,Gampaha,Keyboard,Accessories,5,5000,0.0
+ORD0095,2025-08-31,Kavindi Fernando,Central,Matale,Smartphone,Electronics,3,95000,0.05
+ORD0032,2025-09-06,Dinuka Fernando,Central,Nuwara Eliya,Keyboard,Accessories,5,5000,0.15
+ORD0039,2025-09-06,Pasindu Silva,Central,Matale,Desk,Furniture,1,35000,0.0
+ORD0088,2025-09-06,Dinuka Fernando,Sabaragamuwa,Kegalle,Laptop,Electronics,4,150000,0.0
+ORD0118,2025-09-09,Kasun Wijesinghe,Western,Colombo,Smartphone,Electronics,2,95000,0.15
+ORD0080,2025-09-16,Kasun Wijesinghe,Sabaragamuwa,Ratnapura,Office Chair,Furniture,4,28000,0.1
+ORD0022,2025-09-17,Tharushi Jayasinghe,Southern,Hambantota,Smartphone,Electronics,5,95000,0.15
+ORD0049,2025-09-17,Nethmi Perera,Central,Matale,Mouse,Accessories,1,2500,0.0
+ORD0100,2025-09-17,Pasindu Silva,Western,Gampaha,Headphones,Accessories,4,7500,0.0
+ORD0112,2025-10-02,Madhavi Dias,Central,Kandy,Monitor,Electronics,4,45000,0.05
+ORD0093,2025-10-04,Amal Perera,Southern,Galle,Laptop,Electronics,1,150000,0.0
+ORD0087,2025-10-07,Pasindu Silva,Central,Matale,Pen Set,Stationery,2,800,0.05
+ORD0041,2025-10-12,Amal Perera,Central,Kandy,Desk,Furniture,3,35000,0.0
+ORD0059,2025-10-14,Pasindu Silva,Central,Kandy,Office Chair,Furniture,2,28000,0.0
+ORD0099,2025-10-17,Nimal Silva,Southern,Hambantota,Laptop,Electronics,4,150000,0.05
+ORD0045,2025-10-19,Ravindu Senanayake,Western,Kalutara,Keyboard,Accessories,1,5000,0.1
+ORD0104,2025-10-19,Nethmi Perera,Sabaragamuwa,Kegalle,Pen Set,Stationery,1,800,0.1
+ORD0042,2025-10-24,Amal Perera,Western,Kalutara,Notebook,Stationery,3,450,0.0
+ORD0046,2025-10-26,Tharushi Jayasinghe,Southern,Matara,Pen Set,Stationery,2,800,0.05
+ORD0043,2025-10-27,Kavindi Fernando,Central,Kandy,Desk,Furniture,5,35000,0.0
+ORD0113,2025-10-29,Tharushi Jayasinghe,Southern,Galle,Notebook,Stationery,2,450,0.05
+ORD0106,2025-11-02,Tharushi Jayasinghe,Western,Kalutara,Mouse,Accessories,2,2500,0.0
+ORD0007,2025-11-06,Nimal Silva,Western,Kalutara,Mouse,Accessories,4,2500,0.15
+ORD0096,2025-11-07,Ishara De Silva,Western,Colombo,Pen Set,Stationery,3,800,0.0
+ORD0120,2025-11-13,Ishara De Silva,Sabaragamuwa,Kegalle,Keyboard,Accessories,4,5000,0.05
+ORD0012,2025-11-22,Kasun Wijesinghe,Central,Kandy,Monitor,Electronics,4,45000,0.1
+ORD0055,2025-11-23,Madhavi Dias,Central,Nuwara Eliya,Mouse,Accessories,4,2500,0.15
+ORD0001,2025-11-24,Tharushi Jayasinghe,Western,Kalutara,Smartphone,Electronics,3,95000,0.0
+ORD0013,2025-11-24,Tharushi Jayasinghe,Central,Nuwara Eliya,Notebook,Stationery,3,450,0.0
+ORD0064,2025-11-25,Kasun Wijesinghe,Sabaragamuwa,Kegalle,Notebook,Stationery,1,450,0.0
+ORD0028,2025-11-29,Tharushi Jayasinghe,Sabaragamuwa,Kegalle,Headphones,Accessories,1,7500,0.0
+ORD0038,2025-11-30,Pasindu Silva,Western,Colombo,Notebook,Stationery,2,450,0.0
+ORD0035,2025-12-01,Tharushi Jayasinghe,Western,Gampaha,Smartphone,Electronics,3,95000,0.0
+ORD0074,2025-12-06,Tharushi Jayasinghe,Southern,Galle,Pen Set,Stationery,2,800,0.05
+ORD0109,2025-12-06,Nethmi Perera,Southern,Matara,Pen Set,Stationery,5,800,0.15
+ORD0051,2025-12-08,Kasun Wijesinghe,Southern,Hambantota,Notebook,Stationery,1,450,0.0
+ORD0068,2025-12-10,Ishara De Silva,Southern,Matara,Keyboard,Accessories,1,5000,0.05
+ORD0073,2025-12-12,Saman Kumara,Sabaragamuwa,Ratnapura,Keyboard,Accessories,1,5000,0.05
+ORD0098,2025-12-20,Nimal Silva,Western,Kalutara,Keyboard,Accessories,3,5000,0.15
+ORD0078,2025-12-23,Nimal Silva,Sabaragamuwa,Ratnapura,Notebook,Stationery,5,450,0.0
+ORD0061,2025-12-26,Tharushi Jayasinghe,Sabaragamuwa,Ratnapura,Smartphone,Electronics,4,95000,0.0

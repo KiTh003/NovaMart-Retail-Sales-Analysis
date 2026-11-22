@@ -29,6 +29,9 @@ NovaMart_Retail_Sales_Analysis/
 │   ├── NovaMart_Retail_Sales_Analysis.xlsx
 │   └── Dashboard_Screenshot.png
 │
+├── Documentation/
+│   └── Project_Report.pdf
+│
 └── README.md
 ```
 
